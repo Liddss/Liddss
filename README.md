@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- Ganti teks di parameter 'lines' untuk mengubah animasi ketik -->
-  <!-- Warna diubah ke merah (color=EF4444) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=[NAMA_PANGGILAN]+Here!+👋;[ROLE_PEKERJAAN_1];[SKILL_1]+%E2%80%A2+[SKILL_2];[SKILL_3]+%E2%80%A2+[SKILL_4]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=%5BNAMA_PANGGILAN%5D+Here!+%F0%9F%91%8B;%5BROLE_PEKERJAAN_1%5D;%5BSKILL_1%5D+%E2%80%A2+%5BSKILL_2%5D;%5BSKILL_3%5D+%E2%80%A2+%5BSKILL_4%5D" alt="Typing SVG" />
 </div>
 
 <div align="center">
