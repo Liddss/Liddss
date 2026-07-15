@@ -77,13 +77,11 @@
 <h3 align="center">📈 Contribution Graph</h3>
 
 <div align="center">
-  <!-- Ganti [USERNAME_GITHUB] agar snake animation mengarah ke repo profile temanmu -->
-  <img src="https://github.com/[USERNAME_GITHUB]/[USERNAME_GITHUB]/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
+  <img src="https://github.com/Liddss/Liddss/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </div>
 <br>
 <div align="center">
-  <!-- Ganti [USERNAME_GITHUB] agar 3D chart mengarah ke repo profile temanmu -->
-  <img src="https://raw.githubusercontent.com/[USERNAME_GITHUB]/[USERNAME_GITHUB]/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
+  <img src="https://raw.githubusercontent.com/Liddss/Liddss/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
 </div>
 
 ---
