@@ -33,7 +33,7 @@
 
 ### 🧰 Tech Stack & Tools
 
-<!-- Temanmu bisa mencari badge lain di https://simpleicons.org/ dan menyesuaikan URL di bawah ini -->
+<!-- Bisa mencari badge lain di https://simpleicons.org/ dan menyesuaikan URL di bawah ini -->
 **Backend & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -58,19 +58,10 @@
 
 <h3 align="center">🔥 GitHub Streak</h3>
 <div align="center">
-  <!-- Ganti [USERNAME_GITHUB] dengan username temanmu -->
-  <img src="https://streak-stats.demolab.com?user=[USERNAME_GITHUB]&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=8b949e&currStreakLabel=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Liddss&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=8b949e&currStreakLabel=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
-
----
-
-<h3 align="center">⏱️ Coding Stats</h3>
-
-<!-- WakaTime stats akan otomatis menginjeksi di antara tag START dan END ini jika actionnya sudah disetup -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -104,5 +95,5 @@
 <br>
 <div align="center">
   <!-- Ganti [USERNAME_GITHUB] -->
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_GITHUB]&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Liddss&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
