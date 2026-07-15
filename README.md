@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti teks di parameter 'lines' untuk mengubah animasi ketik -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=[NAMA_PANGGILAN]~+Here~~;[ROLE_PEKERJAAN_1];[SKILL_1]+%E2%80%A2+[SKILL_2];[SKILL_3]+%E2%80%A2+[SKILL_4]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=[NAMA_PANGGILAN]+Here!+👋;[ROLE_PEKERJAAN_1];[SKILL_1]+%E2%80%A2+[SKILL_2];[SKILL_3]+%E2%80%A2+[SKILL_4]" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,21 +17,21 @@
 
 <br>
 
-<h3 align="center">🐾 Profile Dynamics</h3>
+<h3 align="center">💡 Quick Facts</h3>
 <div align="center">
 
-| 🐾 Role & Dynamic | 🏰 Base / Location | 🪢 Primary Tools | 🤐 Safeword / Catchphrase |
+| 👨‍💻 Role | 🏢 Base / Organization | 🛠️ Primary Tools | ☕ Go-To Beverage |
 | :---: | :---: | :---: | :---: |
-| [ROLE_UTAMA_MISAL:_Front-End] | [NAMA_KAMPUS_ATAU_PERUSAHAAN] | [TOOLS_ANDALAN] | `[KATA_KUNCI_FAVORIT]` 💜 |
+| [ROLE_UTAMA_MISAL:_Front-End] | [NAMA_KAMPUS_ATAU_PERUSAHAAN] | [TOOLS_ANDALAN] | `[MINUMAN_FAVORIT_MISAL:_Kopi_Hitam]` ☕ |
 
 </div>
 
-### 🐾 The Playpen (Battle Station)
+### 💻 Setup & Battle Station
 - **Rig:** [MERK/TIPE_LAPTOP_ATAU_PC]
-- **Weapon:** [KEYBOARD/MOUSE_ATAU_GEAR_LAINNYA]
+- **Gear:** [KEYBOARD/MOUSE_ATAU_GEAR_LAINNYA]
 ---
 
-### 🧰 The Toy Box (Tech Stack)
+### 🧰 Tech Stack & Tools
 
 <!-- Temanmu bisa mencari badge lain di https://simpleicons.org/ dan menyesuaikan URL di bawah ini -->
 **Backend & Frameworks**
@@ -56,7 +56,7 @@
 
 ---
 
-<h3 align="center">🔥 Daily Obedience (Streak)</h3>
+<h3 align="center">🔥 GitHub Streak</h3>
 <div align="center">
   <!-- Ganti [USERNAME_GITHUB] dengan username temanmu -->
   <img src="https://streak-stats.demolab.com?user=[USERNAME_GITHUB]&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=8b949e&currStreakLabel=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
@@ -66,7 +66,7 @@
 
 ---
 
-<h3 align="center">⛓️ Time in Restraints (Coding Sessions)</h3>
+<h3 align="center">⏱️ Coding Stats</h3>
 
 <!-- WakaTime stats akan otomatis menginjeksi di antara tag START dan END ini jika actionnya sudah disetup -->
 <!--START_SECTION:waka-->
@@ -74,7 +74,7 @@
 
 ---
 
-<h3 align="center">🐾 Tracks & Footprints (Activity)</h3>
+<h3 align="center">📈 Contribution Graph</h3>
 
 <div align="center">
   <!-- Ganti [USERNAME_GITHUB] agar snake animation mengarah ke repo profile temanmu -->
@@ -88,17 +88,16 @@
 
 ---
 
-### 🦴 Current Obsession / Play
-* 🕹️ *[GAME_ATAU_HOBI_1]*
-* ⚔️ *[GAME_ATAU_HOBI_2]*
-* 🍰 *[GAME_ATAU_HOBI_3]*
-* 🪢 *[PROJEK_ATAU_KETERTARIKAN_SAAT_INI]*
+### 🎯 Currently Focusing On
+* 📚 *[HAL_YANG_SEDANG_DIPELAJARI]*
+* 💻 *[PROJEK_ATAU_KESIBUKAN_SAAT_INI]*
+* 🎮 *[GAME_ATAU_HOBI_PENGISI_WAKTU]*
 
 <br>
 
-<h3 align="center">📡 The Leash (Connection)</h3>
+<h3 align="center">💬 Connect With Me</h3>
 <p align="center">
-  <!-- Ganti [DISCORD_ID] dengan ID angka discord temanmu -->
+  <!-- Ganti [DISCORD_ID] dengan ID angka discord temanmu, atau hapus bagian ini jika tidak pakai Lanyard -->
   <a href="https://discord.com/users/[DISCORD_ID]" target="_blank">
     <img src="https://lanyard-profile-readme.vercel.app/api/[DISCORD_ID]?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
   </a>
