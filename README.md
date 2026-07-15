@@ -1,10 +1,11 @@
 <div align="center">
   <!-- Ganti teks di parameter 'lines' untuk mengubah animasi ketik -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=[NAMA_PANGGILAN]+Here!+👋;[ROLE_PEKERJAAN_1];[SKILL_1]+%E2%80%A2+[SKILL_2];[SKILL_3]+%E2%80%A2+[SKILL_4]" alt="Typing SVG" />
+  <!-- Warna diubah ke merah (color=EF4444) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=[NAMA_PANGGILAN]+Here!+👋;[ROLE_PEKERJAAN_1];[SKILL_1]+%E2%80%A2+[SKILL_2];[SKILL_3]+%E2%80%A2+[SKILL_4]" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/[USERNAME_GITHUB]" target="_blank">
+  <a href="https://github.com/Liddss" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="[LINK_LINKEDIN]" target="_blank">
@@ -33,7 +34,6 @@
 
 ### 🧰 Tech Stack & Tools
 
-<!-- Bisa mencari badge lain di https://simpleicons.org/ dan menyesuaikan URL di bawah ini -->
 **Backend & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -58,7 +58,8 @@
 
 <h3 align="center">🔥 GitHub Streak</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Liddss&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=8b949e&currStreakLabel=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
+  <!-- Ring, api, dan angka streak diganti ke merah (EF4444) -->
+  <img src="https://streak-stats.demolab.com?user=Liddss&theme=tokyonight&background=0D1117&ring=EF4444&fire=EF4444&currStreakNum=EF4444&sideNums=FFFFFF&sideLabels=8b949e&currStreakLabel=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -94,6 +95,6 @@
 
 <br>
 <div align="center">
-  <!-- Ganti [USERNAME_GITHUB] -->
-  <img src="https://komarev.com/ghpvc/?username=Liddss&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Badge Views diubah warna backgroundnya ke merah (color=EF4444) -->
+  <img src="https://komarev.com/ghpvc/?username=Liddss&color=EF4444&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
